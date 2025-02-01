@@ -1,0 +1,38 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary or intermediate files
+*.tmp
+*.bak
+*.swp
+
+# Dependency directories
+node_modules/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Processed/Output data files that shouldn't be tracked
+merged_data.txt
+processed_data.txt
+transformed_data.txt
+target_data.txt
+final_data.txt
+filtered_data.txt
