@@ -22,7 +22,7 @@ pip install pandas
 ## Usage
 Run the pipeline with:
 ```bash
-python ngs_pipeline.py
+python variant_inhouse_freq.py
 ```
 
 ## Output Files
